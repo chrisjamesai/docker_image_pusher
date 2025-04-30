@@ -1,2 +1,2 @@
 #支持私库
-k8s.gcr.io/flannel:v0.12.0-amd64
+quay.io/coreos/flannel:v0.12.0-amd64
